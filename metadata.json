@@ -1,0 +1,9 @@
+{
+  "name": "On My List AI",
+  "description": "Your AI guide to finding grocery deals, planning meals, and saving money.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
